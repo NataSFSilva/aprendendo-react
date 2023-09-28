@@ -1,2 +1,2 @@
-# linguagem-de-programacao
-Repositório dedicado ás atividades de Linguagem de Programação
+# Jornada Front-End
+Repositório dedicado ás atividades de Tecnologias Emergentes
